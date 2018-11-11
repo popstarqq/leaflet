@@ -4,4 +4,5 @@ simple  leaflet demos
 1. npm install 
 2. npm run dev
 
+![小白GISDemo](http://www.xiaobaigis.com/net/upload/image/20181111/6367756857330859009214932.gif)
 #### demo代码详解可在个人网站-[小白GIS](http://www.xiaobaigis.com/GiSarticles/Index/leafLet)查看
