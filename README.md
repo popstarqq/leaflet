@@ -1,6 +1,6 @@
 # leaflet
 simple  leaflet demos 
-#### 运行每个插件的工程文件，需要执行在根目录的nodejs环境下执行两步
+#### 运行每个插件的工程文件，需要在根目录的nodejs环境下执行两步
 1. npm install 
 2. npm run dev
 
